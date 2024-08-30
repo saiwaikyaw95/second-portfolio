@@ -1,7 +1,7 @@
 import { useRef, useState } from "react";
 import { FiLock } from "react-icons/fi";
 import { motion } from "framer-motion";
-import myresume from '../assets/saiwai-kyaw-portfolio.pdf';
+import myresume from '../assets/mycv.pdf';
 
 const Example = () => {
   return (
