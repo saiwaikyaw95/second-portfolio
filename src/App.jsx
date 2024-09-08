@@ -10,7 +10,7 @@ import Technologies from "./components/Technologies";
 
 const App = () => {
   return (
-    <div className=" text-neutral-800 dark:bg-black dark:text-neutral-300 antialiased selection:bg-cyan-300 selection:text-cyan-900">
+    <div className=" overflow-hidden text-neutral-800 dark:bg-black dark:text-neutral-300 antialiased selection:bg-cyan-300 selection:text-cyan-900">
       <Navbar />
       
       <div className="container mx-auto px-8">
